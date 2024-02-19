@@ -9,3 +9,6 @@ import Foundation
 
 print("Hello, World!")
 
+print("Swift Warriors Test")
+
+print("This isnt working")
